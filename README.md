@@ -243,6 +243,7 @@ start todo.html       # Windows cmd / PowerShell
 ```
 
 Browser data is stored in `localStorage`. Use `:export` inside the TUI to copy tasks to the clipboard.
+Deployed at todoterminal.netlify.app
 
 ---
 
